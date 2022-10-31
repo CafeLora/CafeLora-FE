@@ -1,0 +1,31 @@
+:root {
+
+  --primary-color: #0f7c90;
+
+  --primary-variant: #003d7f;
+
+  --secondary-color: #7dca67;
+
+  --secondary-variant: #5ca553;
+
+  --accent: #ff1212;
+
+  --placeholder: rgb(158, 158, 158);
+
+  --error: #f44336;
+
+  --success: #00e676;
+
+  --warning: #ffea00;
+
+  --danger: #e53935;
+
+  --box-shadow: #333;
+
+  --nav-bg: #1b1b1b;
+
+  --footer: #1f1f41;
+
+  --linear-gradient: linear-gradient(180deg, rgba(0, 0, 0, 0.5), #292929);
+
+}
